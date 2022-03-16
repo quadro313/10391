@@ -1,0 +1,4 @@
+ivan,34
+pesho,85
+gosho,10
+gosho,10

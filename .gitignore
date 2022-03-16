@@ -1,0 +1,6 @@
+# Project exclude paths
+/controllers/UserController.js
+/models/UserModel.js
+/node_modules/
+/index.js
+.idea
